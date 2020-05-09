@@ -5,3 +5,16 @@
 .card{
     margin-bottom: 20px;
 }
+
+.card .card-image figure img{
+    margin: 0 auto;
+    height: 230px;
+    width: 230px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.card-content figure img {
+    background-size: cover;
+
+}
